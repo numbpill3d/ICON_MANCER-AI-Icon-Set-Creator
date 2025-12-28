@@ -1,0 +1,5 @@
+{
+  "name": "IconMancer",
+  "description": "AI-powered icon pack generator that extracts style DNA from uploads to create consistent, custom icon sets.",
+  "requestFramePermissions": []
+}
